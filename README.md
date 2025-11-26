@@ -1,4 +1,4 @@
-# 🤰 MomCare — Data-Driven Maternal Health Companion App
+# 🤰 MomCare — Maternal Health Companion App
 
 MomCare is a full-stack mobile health app that helps pregnant women eat well, keep track of their symptoms, and spot early signs of stunting.  
 The system combines **image-based food recognition**, **nutrition analytics**, and **risk assessment models** to give people personalized health advice that they can act on.
